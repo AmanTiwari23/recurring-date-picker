@@ -1,3 +1,6 @@
+## reusable date picker component in React that allows users to select recurring dates, similar to the feature in the TickTick app.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
